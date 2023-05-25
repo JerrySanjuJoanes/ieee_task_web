@@ -1,0 +1,8 @@
+.trns-text {
+  background: url(https://www.yachtandboat.com/wp-content/uploads/2018/12/hero-image-2.jpg) -10px -10px
+    no-repeat;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-size: 450px;
+  background-size: cover;
+}
