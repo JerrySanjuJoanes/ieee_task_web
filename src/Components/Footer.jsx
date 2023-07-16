@@ -29,6 +29,8 @@ function Footer() {
             <a href="https://www.facebook.com/IEEECEC/" className='text-[#b4b4b4] hover:text-white cursor-pointer'><BsFacebook size={25} /></a>
             <a href="https://www.youtube.com/channel/UCXh6fVbDGCIidsVHabpZFiw" className='text-[#b4b4b4] hover:text-white cursor-pointer'><BsYoutube size={25}  href='www.youtube.com'/></a>
           </div>
+          <br>
+          <br>
           <span className='absolute bottom-1 mt- max-[1000px]:relative max-[1000px]:bottom-0 '>Developed by J_S_J.Code <br /> <a href="https://github.com/JerrySanjuJoanes" className='underline hover:text-blue-700'>Github</a></span>
         </div>
       </div>
